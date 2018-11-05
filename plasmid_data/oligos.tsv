@@ -1,4 +1,4 @@
-Lab	Primer Number	Oligo performance value	Oligo sequence	Description	Index Number
+Lab	Primer Number	Primer Performance	Sequence	Description	Index Number
 xxxx	1111	111.0	xxxxxxxxxxxxxxxxx	xxx xx xxxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxx-xxxxxx xxx xxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxxx.	722
 xxxx	1111	111.0	xxxxxxxxxxxxxxxxxxx	xxx xx xxxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxx-xxxxxx xxx xxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxxx.	613
 xxx	11	null	xxxxxxxxxxxxxxxxxxxxxxxxxxx	xx xxxx xxxxx xx	855
@@ -908,4 +908,4 @@ xxxx	111	111.0	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxx xx xxxxx xxxxxx, xxxxx
 xxxx	1111	111.0	xxxxxxxxxxxxxxxxxx	xxx xx xxxxxxxxxx xxxxxxx xxx xxxxxxxxxx xxxxx-xxxxxx xxx xxxxxxxx xxxxxxxxxx xxxxxxxxxx xxxxxxx.	581
 xxxx	11	111.0	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxx-xx#xx.	47
 xxxx	1111	111.0	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxx xx xxxx xxxx x.	363
-xxxx	1111	11.0	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxx xxxxxxxx xxxxxxxxxx.	472
+xxxx	1111	11.0	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxx xxxxxxxx xxxxxxxxxx.	472xxxxxx.	472

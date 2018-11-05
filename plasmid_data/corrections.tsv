@@ -268,3 +268,4 @@ Index Number	Incorrect Sequence	Correct Sequence	Description	Type
 151	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxx xxxxxx xxxxxxx xxxxxx, xxxx-xxx	xxxxxxxxxxxx
 284	xxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxx xx xxxxxxxx xxxxx xxx xxxxxxxx xxxxxxx xxxx xxxxxxx.  xxxxxxxxxxxxxxx x xx x xxxxxx xx xxxxxxxx xx xxxxx xx xxxxxxxxx xx xxxxxxx xxxxxxxx.  xxx xxxxxx xxxxxx xxxxx xxxxxxx xxxxxxx, xxxxxxxx xxxxxxx xxxxxxxxxx xx xxxxxxxxx xx xxxxxxxxx xxxxx xxxxxxxx xx xxxxxxx	xxxxxxxxxxxx
 2	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx	xxx-xxxx-xxxx-x-xxxx xxxxxxxxxxx; xxx xxxxxxxx xxxxxxxx xxxxxx	xxxxxxxxxxxx
+000598	MyType	MyType		MyType
